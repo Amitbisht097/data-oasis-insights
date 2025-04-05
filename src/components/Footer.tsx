@@ -93,7 +93,7 @@ const Footer = () => {
             <p className="text-gray-300 text-sm mb-2">275-B, Pocket C-1 </p>
             <p className="text-gray-300 text-sm mb-2">Mayur Vihar Phase -3, New Delhi - 110096</p>
             <p className="text-gray-300 text-sm mb-2">contact@tothedata.com</p>
-            <p className="text-gray-300 text-sm">+917678345712</p>
+            <p className="text-gray-300 text-sm">+918527359743</p>
           </div>
         </div>
         
