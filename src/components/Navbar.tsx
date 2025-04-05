@@ -38,9 +38,9 @@ const Navbar = () => {
               <Link to="/about" className="text-brand-secondary hover:text-brand-primary font-medium">
                 About Us
               </Link>
-              <Link to="/blog" className="text-brand-secondary hover:text-brand-primary font-medium">
+{/*               <Link to="/blog" className="text-brand-secondary hover:text-brand-primary font-medium">
                 Blog
-              </Link>
+              </Link> */}
               <Button asChild className="bg-brand-primary hover:bg-brand-accent text-white">
                 <Link to="/contact">Contact Us</Link>
               </Button>
