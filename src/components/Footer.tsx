@@ -90,10 +90,10 @@ const Footer = () => {
           
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
-            <p className="text-gray-300 text-sm mb-2">123 Data Street</p>
-            <p className="text-gray-300 text-sm mb-2">Analyticity, AN 10101</p>
-            <p className="text-gray-300 text-sm mb-2">info@tothedata.com</p>
-            <p className="text-gray-300 text-sm">+1 (555) 123-4567</p>
+            <p className="text-gray-300 text-sm mb-2">275-B, Pocket C-1 </p>
+            <p className="text-gray-300 text-sm mb-2">Mayur Vihar Phase -3, New Delhi - 110096</p>
+            <p className="text-gray-300 text-sm mb-2">contact@tothedata.com</p>
+            <p className="text-gray-300 text-sm">+917678345712</p>
           </div>
         </div>
         
